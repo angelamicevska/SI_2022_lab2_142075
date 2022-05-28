@@ -6,7 +6,6 @@
 
 ![CFG](https://user-images.githubusercontent.com/76878643/170827614-811bfc4d-9616-45d1-a836-c22525decfe7.png)
 
-
 **Цикломатска комплексност**
 
 **Тест случаи според критериумот Every statement**
