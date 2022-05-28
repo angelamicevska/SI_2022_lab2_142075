@@ -4,7 +4,8 @@
 
 **Control Flow Graph**
 
-![CFG](https://user-images.githubusercontent.com/76878643/170827614-811bfc4d-9616-45d1-a836-c22525decfe7.png)
+![CFG](https://user-images.githubusercontent.com/76878643/170827655-5fe58f6b-9c03-40a6-b470-3c4fa38a678d.png)
+
 
 **Цикломатска комплексност**
 
